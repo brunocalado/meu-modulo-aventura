@@ -1,0 +1,21 @@
+{
+  "id": "meu-modulo-aventura",
+  "title": "Meu Módulo!!!",
+  "authors": [],
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "packs": [
+    {
+      "label": "Bloodstone",
+      "type": "Adventure",
+      "name": "bloodstone",
+      "path": "packs/bloodstone.db",
+      "private": false,
+      "flags": {},
+      "system": "worldbuilding"
+    }
+  ]
+}
